@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="aGTB4i" name="SIGMusic Demo" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              companyName="sigmusic" pluginVST3Category="Instrument" pluginVSTCategory="kPlugCategSynth"
+              pluginCharacteristicsValue="pluginIsMidiEffectPlugin,pluginProducesMidiOut,pluginWantsMidiIn">
   <MAINGROUP id="OscdEF" name="SIGMusic Demo">
     <GROUP id="{3ACA81DD-72A1-3229-6BC1-C81D09B47425}" name="Source">
       <FILE id="FsJt9P" name="PluginProcessor.cpp" compile="1" resource="0"
