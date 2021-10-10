@@ -465,4 +465,3 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/xcode,visualstudio,c++
 
 Builds/*
-JuceLibraryCode/*
